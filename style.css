@@ -1,1 +1,26 @@
 
+
+*{
+  margin:0 auto ;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Open Sans',sans-serif;
+{
+  
+#menu-principal{
+  background-color:rbg(37,37,39);
+{
+  
+#menu-primcipal ul {
+  max width:800px;
+  padding:0;
+{
+  
+#menu-principal ul li {
+  display:inline;
+{
+  
+#menu-principal ul li a {
+  color:#FFF;
+  padiding:20px;
+  display:imline-blok;
